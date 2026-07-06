@@ -55,39 +55,6 @@ TuneLister is built using a highly optimized desktop integration stack:
 
 ---
 
-## 🚀 Installation & Build Guide
-
-### Prerequisites
-
-Ensure you have the following installed on your machine:
-* Go (1.26.4 or higher)
-* Node.js & npm (for building the React frontend)
-* GCC/MinGW (for compiling CGO dependencies like WebKit bindings)
-
-### Build Standalone Executables
-
-1. Clone the repository and navigate to the directory:
-   ```bash
-   git clone https://github.com/your-repo/TuneLister.git
-   cd TuneLister
-   ```
-
-2. Install frontend dependencies:
-   ```bash
-   cd frontend && npm install && cd ..
-   ```
-
-3. Run the Go builder pipeline:
-   ```bash
-   go run build.go
-   ```
-
-Upon completion, you will find ready-to-run desktop packages inside the `packages/` folder:
-* **Linux Standalone Launcher**: `packages/linux/tunelister-online`
-* **Windows Standalone Launcher**: `packages/windows/tunelister-online.exe`
-
----
-
 ## 🌐 Links
 
 * **Home Page**: [https://tunelister.vercel.app/](https://tunelister.vercel.app/)
