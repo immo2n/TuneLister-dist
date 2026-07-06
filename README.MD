@@ -11,9 +11,13 @@ TuneLister is a premium, lightweight, standalone desktop audio streamer and mana
 
 ## 🎨 Gallery
 
-| Main Dashboard | Search & Recommendations | Core Audio Player |
-| :---: | :---: | :---: |
-| ![Dashboard Layout](docs/images/dashboard.png) | ![Search Page](docs/images/search.png) | ![Audio Player UI](docs/images/player.png) |
+### 🌟 Main Dashboard (Favorites View)
+![Main Dashboard](screens/favourites.png)
+
+### 🧩 Features & Views
+| Home Screen | Search & Browse | Subscriptions | Play Queue |
+| :---: | :---: | :---: | :---: |
+| ![Home](screens/home.png) | ![Search](screens/browse.png) | ![Subscriptions](screens/subscriptions.png) | ![Play Queue](screens/play-queue.png) |
 
 ---
 
